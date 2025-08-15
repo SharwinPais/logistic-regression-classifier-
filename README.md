@@ -1,4 +1,4 @@
-# Logistic Regression Classifier
+# Loan Default Prediction
 
 This project implements a Logistic Regression model for binary classification using scikit-learn. The pipeline includes preprocessing (scaling numeric features), training, and evaluation.
 
